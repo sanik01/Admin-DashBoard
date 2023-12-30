@@ -129,7 +129,6 @@ const UserList = () => {
 
   return (
     <div>
-      <h2>DashBoard</h2>
       <h1>User List</h1>
       <input
         className="search"
